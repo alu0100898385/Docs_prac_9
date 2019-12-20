@@ -1,0 +1,20 @@
+Mon, 16 Dec 2019 17:01:27 +0000
+./CODE_OF_CONDUCT.md	Sat, 07 Dec 2019 16:13:07 +0000
+./Guardfile	Sat, 07 Dec 2019 16:13:07 +0000
+./bin/setup	Mon, 11 Nov 2019 15:54:52 +0000
+./bin/console	Mon, 11 Nov 2019 15:54:52 +0000
+./spec/spec_helper.rb	Sat, 07 Dec 2019 16:13:07 +0000
+./spec/list_spec.rb	Sat, 07 Dec 2019 18:48:57 +0000
+./spec/alimentos_spec.rb	Sat, 07 Dec 2019 18:48:43 +0000
+./spec/comparable_spec.rb	Sat, 07 Dec 2019 18:49:21 +0000
+./spec/plato_spec.rb	Mon, 09 Dec 2019 16:54:05 +0000
+./README.md	Sat, 07 Dec 2019 16:13:07 +0000
+./Rakefile	Sat, 07 Dec 2019 16:13:07 +0000
+./lib/alimentos/alimentos_.rb	Mon, 16 Dec 2019 17:00:55 +0000
+./lib/alimentos/plato.rb	Mon, 16 Dec 2019 16:42:05 +0000
+./lib/alimentos/version.rb	Sat, 07 Dec 2019 16:13:07 +0000
+./lib/alimentos/list.rb	Mon, 16 Dec 2019 16:40:20 +0000
+./lib/alimentos.rb	Sat, 07 Dec 2019 16:13:07 +0000
+./Gemfile	Sat, 07 Dec 2019 16:13:07 +0000
+./Gemfile.lock	Sat, 07 Dec 2019 16:13:07 +0000
+./LICENSE.txt	Sat, 07 Dec 2019 16:13:07 +0000
